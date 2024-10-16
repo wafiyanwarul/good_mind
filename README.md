@@ -63,7 +63,7 @@
 
 <p>Below are a few screenshots demonstrating the app's UI:</p>
 
-<img src="screenshot1.png" alt="Splash Screen" width="200px"/>
+<img src="https://drive.google.com/file/d/1IJw_ttOrVXGSO5KuIipAqDqYjEPFCtMF/view" alt="Splash Screen" width="200px"/>
 <img src="screenshot2.png" alt="Loading Screen" width="200px"/>
 <img src="screenshot3.png" alt="Home Screen" width="200px"/>
 <img src="screenshot4.png" alt="Profile Screen" width="200px"/>
