@@ -59,14 +59,13 @@
   <pre><code>flutter run</code></pre>
 </ol>
 
-<h2>📸 Screenshots</h2>
-
-<p>Below are a few screenshots demonstrating the app's UI:</p>
-
-<img src="screenshot1.png" alt="Splash Screen" width="200px"/>
-<img src="screenshot2.png" alt="Loading Screen" width="200px"/>
-<img src="screenshot3.png" alt="Home Screen" width="200px"/>
-<img src="screenshot4.png" alt="Profile Screen" width="200px"/>
+<h3>Screenshots</h3>
+<p>
+  <img src="https://github.com/user-attachments/assets/83e5c171-84d4-46b7-8c2c-d45a149957ea" alt="Splash Screen" width="200px"/>
+  <img src="https://github.com/user-attachments/assets/d24d1dac-9cad-4300-8aee-e0bdaf810041" alt="Loading Screen" width="200px"/>
+  <img src="https://github.com/user-attachments/assets/7c7c28c1-bfd2-4629-ae8e-bcd3445d6a78" alt="Home Screen" width="200px"/>
+  <img src="https://github.com/user-attachments/assets/e3b17cd7-3541-47c8-b6f9-5bf6824acda4" alt="Profile Screen" width="200px"/>
+</p>
 
 <h2>📄 License</h2>
 
