@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:square_progress_indicator/square_progress_indicator.dart';
-import '../theme/appTheme.dart';
+import '../theme/app_theme.dart';
 
 class LoadingScreen extends StatefulWidget {
   const LoadingScreen({super.key});
@@ -23,7 +23,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
 
   // Fungsi untuk memulai progress dari 0% hingga 100%
   void _startLoading() {
-    Timer.periodic(const Duration(milliseconds: 50), (timer) {
+    Timer.periodic(const Duration(milliseconds: 15), (timer) {
       setState(() {
         _value += 0.01; // Menambah progress 1% setiap kali
       });
@@ -82,7 +82,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
               ),
             ),
             // Progress Indicator
-            Container(
+            SizedBox(
               width: MediaQuery.of(context).size.width,
               height: MediaQuery.of(context).size.height,
               child: Center(

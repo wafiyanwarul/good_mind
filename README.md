@@ -67,7 +67,7 @@
 <img src="screenshot2.png" alt="Loading Screen" width="200px"/>
 <img src="screenshot3.png" alt="Home Screen" width="200px"/>
 <img src="screenshot4.png" alt="Profile Screen" width="200px"/>
-
+-
 <h2>📄 License</h2>
 
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
